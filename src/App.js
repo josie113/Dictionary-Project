@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small className="text-center">coded by Josie</small>
+          <small>coded by Josie</small>
         </footer>
       </div>
     </div>
